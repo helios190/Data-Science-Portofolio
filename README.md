@@ -1,5 +1,4 @@
-# Data Science Portofolio Bintang
-Example data science portfolio
+# Bintang Restu Bawono - Data Science Portofolio 
 
 # [Project 1: Data Science Text Story Classification ](https://github.com/helios190/Text-Story-Classification/blob/main/Text_Classification.ipynb) 
 * Created a tool that estimates data science salaries (MAE ~ $ 11K) to help data scientists negotiate their income when they get a job.
