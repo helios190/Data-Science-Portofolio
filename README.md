@@ -8,7 +8,6 @@
 * Implement Vectorizer as a Model Enhancement rather than Hyperparameter Tuning 
 
 ![](/Images/1662642470870.jpg) 
-![](/Images/download%20(1).png) 
 ![](/Images/download.png)
 
 
