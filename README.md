@@ -32,17 +32,25 @@ In the beginning, we analyze the main problem of Covid-19 that explode at 2020 c
 ![](/Images/download%20(6).png) 
 ![](/Images/download%20(7).png)
 
-# [Project 4: Rock Paper Scissors Image Recognition](https://github.com/PlayingNumbers/ball_image_classifier) 
+# [Project 4: Rock Paper Scissors Image Recognition] (https://github.com/helios190/Rock-Paper-Scissors-Image-Recognition/blob/main/Tugas_Akhir_Machine_Learning.ipynb)
 
+* Use Tensorflow and Keras to create an Image Data Generator of Rock Paper and Scissors Hand Sign
+* Creating a Sequential Model of Convolutional 2 Dimension
+* Categorize Picture Recognition Based on its Hand Sign
 
-![](/images/matrix_results.png)
+![](/Images/1662723019188.jpg)
 
-# [Project 5: Jawa Barat Covid 19 Visualization](https://github.com/PlayingNumbers/ball_image_classifier) 
+# [Project 5: Jawa Barat Covid 19 Visualization](https://github.com/helios190/COVID-19-Jawa-Barat/blob/main/Covid%20Bar%20Chart.ipynb) 
 
+* Creating a Visualization of Jawa Barat Covid Cases using Matplotlib
+* Scrapping a data using Request from Jawa Barat Open API 
+* Using Pandas and Numpy to Manipulate and Modify Dataset
 
-![](/images/matrix_results.png)
+![](/Images/download%20(8).png)
+![](/Images/download%20(9).png)
 
-# [Project 6: Hotel Daily Revenue Calculation](https://github.com/PlayingNumbers/ball_image_classifier) 
+# [Project 6: Hotel Daily Revenue Calculation](https://github.com/helios190/Revenue-Calculation/blob/main/Revenue_Calculation_Bukit_Vista.ipynb) 
  
-
-![](/images/matrix_results.png)
+* Using Pandas tu Manipulate Table Based on its Revenue Per Day
+* Accesing a Hotel Revenue Data and Split it based on its Currency and Check in Date
+* Grouping Data Based on its Needs to Help Business Analyst to Draw a Conclusion on the Dataset
