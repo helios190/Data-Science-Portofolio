@@ -32,7 +32,7 @@ In the beginning, we analyze the main problem of Covid-19 that explode at 2020 c
 ![](/Images/download%20(6).png) 
 ![](/Images/download%20(7).png)
 
-# [Project 4: Rock Paper Scissors Image Recognition] (https://github.com/helios190/Rock-Paper-Scissors-Image-Recognition/blob/main/Tugas_Akhir_Machine_Learning.ipynb)
+# [Project 4: Rock Paper Scissors Image Recognition](https://github.com/helios190/Rock-Paper-Scissors-Image-Recognition/blob/main/Tugas_Akhir_Machine_Learning.ipynb)
 
 * Use Tensorflow and Keras to create an Image Data Generator of Rock Paper and Scissors Hand Sign
 * Creating a Sequential Model of Convolutional 2 Dimension
@@ -46,7 +46,7 @@ In the beginning, we analyze the main problem of Covid-19 that explode at 2020 c
 * Scrapping a data using Request from Jawa Barat Open API 
 * Using Pandas and Numpy to Manipulate and Modify Dataset
 
-![](/Images/download%20(8).png)
+![](/Images/download%20(10).png)
 ![](/Images/download%20(9).png)
 
 # [Project 6: Hotel Daily Revenue Calculation](https://github.com/helios190/Revenue-Calculation/blob/main/Revenue_Calculation_Bukit_Vista.ipynb) 
