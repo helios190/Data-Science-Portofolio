@@ -19,8 +19,10 @@ In the beginning, we analyze the main problem of Covid-19 that explode at 2020 c
 * Created a Projection of a future prediciton of Mobility ,Covid 19, and Polution using Time series with utilizing Prophet Library to analyze covid - 19 upcoming predicition in the rest of 2022
 
 
-![](/Images/download%20(2).png) ![](/Images/download%20(3).png) 
-![](/Images/download%20(4).png) ![](/Images/download%20(5).png)
+![](/Images/download%20(2).png) 
+![](/Images/download%20(3).png) 
+![](/Images/download%20(4).png) 
+![](/Images/download%20(5).png)
 
 # [Project 3: Twitter Scrapping & Sentiment Analysis using Natural Langugage Processing](https://github.com/helios190/Covid-Time-Series/blob/main/DSA_BabaTech.ipynb) 
 
