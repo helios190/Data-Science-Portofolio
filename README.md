@@ -7,7 +7,8 @@
 * Optimized Multinomial Naive Bayes for Categorize and Predict using High Scalability Training Data and Categorize Multi Classification . 
 * Implement Vectorizer as a Model Enhancement rather than Hyperparameter Tuning 
 
-![](/Images/1662642470870.jpg) ![](/Images/download%20(1).png) 
+![](/Images/1662642470870.jpg) 
+![](/Images/download%20(1).png) 
 ![](/Images/download.png)
 
 
